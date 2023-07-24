@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "e1e958810e79978e",
+    "type": "split",
+    "children": [
+      {
+        "id": "932177d5baf3cbc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6762f5d1d22efeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd0e26e497e78e79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Names and Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2231785c547c993",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab42caf1c0e6a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c87e3210868be141",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de38b9f7deaefae8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Worldview",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30330794dfaef183",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8ea0852845d5a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "17824d0958b8ab07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235e40a00573c07e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Part II.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "effdc442df94095a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Part II.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fba9af0f893e1fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b2693acd00b4381",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Part II.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e6762f5d1d22efeb",
+  "lastOpenFiles": [
+    "Part I.md",
+    "Part II.md",
+    "Chapter 2.md",
+    "Chapter 1.md",
+    "Things to be answered.md",
+    "Preface.md",
+    "Names and Ideas.md",
+    "Council Questions.md",
+    "Chapter 4.md",
+    "Chapter 3.md",
+    "Part IV.md"
+  ]
+}
