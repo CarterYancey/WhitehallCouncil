@@ -16,3 +16,14 @@ Critical awareness reveals three things about the process of knowing, all of whi
 	1. the observer is looking from one point of view. There's no such thing as a God's eye view.
 	2. all humans interpret information received from their senses through a grid of expectations. #Worldviews.
 	3. Where I stand has a great deal to do with the communities to which I belong. every human community shares and chances certain assumptions, traditions, expectations, etc. ==There is no such thing as a neutral or objective observer. There is no such thing as a detached observer.==
+
+## 3. Stories, Worldviews, and Knowledge
+#Story #Worldview
+First century Jews, like all other people, perceived the world and events within the world within a grid of interpretation and expectation. Their particular grid consisted at its heart of their belief that the world was made by a good, wise, and omnipotent God who had chosen Israel as his special people. They believed that their national history (their communal and traditional story) supplied them with lenses through which they could perceive events in the world and make some sense of them and order their lives accordingly (41).
+
+#Worldviews and the #stories which characterize them are in principle normative; that is, they claim to make sense of the whole of reality (41).
+
+==The positivist and phenomenalist traditions are wrong to imagine that perception is prior to the grasping of larger realities (43).==
+
+## 4. Conclusion
+The hard and fast distinction between objective and subjective must be abandoned as useless. What is needed is a more nuanced epistemology. The #CriticalRealism offered here is therefore essentially a relational epistemology as opposed to a detached one. The stories through which it arrives at its potentially true account of reality are irreducibly stories about the interrelation of humans and the rest of reality. This model allows fully for the actuality of knowledge beyond that of one's own sense data (that which the objectivist desires to save) while also fully allowing for the involvement of the knower in the act of knowing (that upon which he was subjectivist rightly insists). Critical-realist theory of knowledge and verification acknowledges the essentially storied nature of human knowing. It acknowledges that all knowledge of reality is external to oneself and takes place within the framework of the worldview, of which stories form a central part. (44-45).

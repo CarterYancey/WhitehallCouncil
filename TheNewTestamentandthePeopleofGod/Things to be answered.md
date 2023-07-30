@@ -17,7 +17,7 @@ How will Literary Criticism avoid the slide into subjectivism? See [[Chapter 3]]
 
 #Positivism in [[Chapter 2]] (27)
 
-The only way to combine what needs to be combined is by meansof a fresh examiniation of what a contemporary Christian literary, historical, and theological project might look like in [[Part II]] (27).
+The only way to combine what needs to be combined is by means of a fresh examiniation of what a contemporary Christian literary, historical, and theological project might look like in [[Part II]] (27).
 
 We know a good deal more about ancient Judaism than we used to, [[Part III]]] (27).
 
@@ -35,5 +35,12 @@ What worldviews are and how they work in [[Chapter 5]] (37).
 
 We will see in [[Part 4]] there's a particular oddity about placing New Testament theology as a norm over against Jesus himself as classically done by #Bultmann (22).
 
+All worldviews contain an irreducible narrative element which stands alongside other worldview elements such as: symbol, praxis, and basic questions and answers -- to be argued in [[Chapter 5]]
 
+We do with complex stories what we do with any literary criticism we study the effect created and the means by which it is created -- [[Chapter 3]] 
 
+The 1st century Jewish worldview shall be discussed in detail in [[Part III]]
+
+A simple process of knowledge demonstrates what is involved in the 'hypothesis and verification' model, and it should be placed alongside worldviews and stories -- to be argued in [[Chapter 5]] (43).
+
+The role of hypothesis and verification in discussing history, [[Chapter 4]]

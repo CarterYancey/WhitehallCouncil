@@ -13,11 +13,11 @@ The only thing of which I can really be sure when confronted by things. and the 
 #Positivism #Positivist: 
 There are some things which we can have definite knowledge. They are simply 'objectively' true. These are things which can be tested 'empirically'. ==Things that cannot be tested in this way cannot be spoken of without talking some sort of nonsense.==  (32-33)
 
-#Postmodernism #Postmodern:
+#Postmodernism #Postmodern: What matters is 'what the text says to me' (54). #Barthes #Derrida  #Rorty #Fish
 
-#Story: See #Worldview
+#Story: A key element within the construction of a #Worldview. Located on the map of human knowledge at a more fundamental level than explicitly formulated beliefs including theological beliefs. (38).
 
-#Worldview:
+#Worldview#Worldviews : The grid through which humans perceive reality (38).
 
 #Wrede:
 
