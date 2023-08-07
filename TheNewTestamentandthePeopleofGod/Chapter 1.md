@@ -75,7 +75,7 @@ We can't help but mix the Historical questions with the Theological ones. =="stu
 ## (iii) 'The History of Early Christianity'
 Meaning the worldviews and belief-systems of professing Christians between 30 and 130 AD. The NT is an obvious source, but reconstructing the theology of early Christianity will also include the reconstruction of the theologies of those whose own writings have not been preserved. This is hard because there isn't a lot of data. There are tools for this and it is a "public operation" (14-15)
 
-For many, the religious experience of the early Christians is the normative element within Christianity. This gives the advantage that if you can "objectively" determine what they believed you are now in touch with what Christianity is supposed to be. This fits with the view that the Bible is not itself revelation but is the witness to God's revelation within history. On this view, the NT is 'authoritative' because it is the set of documents closest to the facts. (16). 
+For many, the religious experience of the early Christians is the normative element within Christianity. This gives the advantage that if you can "objectively" determine what they believed you are now in touch with what Christianity is supposed to be. This fits with the view that the Bible is not itself revelation but is the witness to God's revelation within history. ==On this view, the NT is 'authoritative' because it is the set of documents closest to the facts. (16). ==
 
 If early Christianity is to function in any way as a norm, there is a selection criteria problem; something that distinguishes "right" Christianity from "wrong" Christianity. Either elevate the earliest period on grounds of it being purer, or choose another criteria (for example, Pauline corpus). (17)
 
@@ -88,7 +88,7 @@ Thus a simple historical description of early Christianity and its theology cann
 
 ==New Testament Theology is the attempt to read the New Testament from a historical point of view== and to draw its major theological emphasis together into a coherent statement which can then address subsequent generations. 
 
-There can be no guarantee in advance unless we adopt an unthinking a prior that theologies of the different writers will be the same. (19)
+There can be no guarantee in advance, unless we adopt an unthinking *a priori*, that theologies of the different writers will be the same. (19)
 
 Emphasis on New Testament theology came during the Protestant reformation. The problem is, either it could be shown that the historical sense of scripture was in fact false, calling the veracity of Christianity as a whole into question or one could explore the historical meaning in order to extract from it timeless theological truths. How can the historical and the normative readings be combined? In other words, is New Testament theology in its combined sense of viable proposition? (20)
 
@@ -107,19 +107,19 @@ Biblical theology model:
 
 The largest problem faced by New Testament theology, particularly within the #Bultmannian paradigm: What to do with Jesus? The New Testament does not contain any writings of Jesus. It could be possible that it merely reflects the beliefs of the writers about Jesus. What if those beliefs are expressed mythologically in terms of Jesus stories? (22)
 
-It has been customary to say that the New Testament writers did not think they were writing scripture. Their own work was conceived as derivative from and dependent upon that fact. If the New Testament does not contain the decisive proclamation of Jesus, it cannot itself be the be all and all of divine revelation, the ultimate locus of authority, *the* thing that all study of the New Testament is bent towards finding. (23)
+It has been customary to say that the New Testament writers did not think they were writing scripture. Their own work was conceived as derivative from and dependent upon that fact. If the New Testament does not contain the decisive proclamation of Jesus, it cannot itself be the 'be all end all' of divine revelation, the ultimate locus of authority, *the* thing that all study of the New Testament is bent towards finding. (23)
 
 Why attempt New Testament theology if it is so full of problems?
 	1. Protestants regard the New Testament as the real authority. 
 	2. The philosophical context of much of this work has been #Idealism. So theology attains a privileged status. If the New Testament is authoritative, this authority has been deemed to lie in the theology that it contains 
 	3. The practical context has been the church's perceived task of addressing with itself and the wider world with a word from the true God.
 
-Within any traditional Christian scheme all authority belongs ultimately to the creator god. if all authority belongs to the Crater God, it is a matter of some delicacy to describe how such authority comes to be vested in the New Testament. And what the limits of this might be. (24)
+==Within any traditional Christian scheme all authority belongs ultimately to the creator god.== If all authority belongs to the Crater God, it is a matter of some delicacy to describe how such authority comes to be vested in the New Testament. And what the limits of this might be. (24)
 
 ## (v) Literary Criticism
 
-A recent step from source form and reduction criticism into postmodernist literary criticism. What we're doing there is observing how readers appropriate things for themselves. This provides a new way of being #Bultmannian. It is an attempt to accomplish within postmodernity what Bultmann's package failed to accomplish within modernity. This method has the  inestimable advantage that it begins from and studies the known (actual texts) instead of the unknown (early Christianity, as it may be reconstructed from between the lines of the New Testament). (25)
-it is not clear from within this model. why one should be reading the New Testament. It is also not clear what continuing status the model gives to history, nor why one should focus on literature specifically. How will this method avoid the slide into subjectivism?
+A recent step from source-, form-, and reduction-criticism into postmodernist literary criticism. What we're doing there is observing how readers appropriate things for themselves. This provides a new way of being #Bultmannian. It is an attempt to accomplish within postmodernity what Bultmann's package failed to accomplish within modernity. This method has the  inestimable advantage that it begins from and studies the known (actual texts) instead of the unknown (early Christianity, as it may be reconstructed from between the lines of the New Testament). (25)
+it is not clear from within this model. why one should be reading the New Testament. It is also not clear what continuing status the model gives to history, nor why one should focus on literature specifically. ==How will this method avoid the slide into subjectivism?==
 ## (vi) The Task Revisited
 
 We need to do justice simultaneously to: 

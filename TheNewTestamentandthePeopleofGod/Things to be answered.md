@@ -17,7 +17,7 @@ How will Literary Criticism avoid the slide into subjectivism? See [[Chapter 3]]
 
 #Positivism in [[Chapter 2]] (27)
 
-The only way to combine what needs to be combined is by means of a fresh examiniation of what a contemporary Christian literary, historical, and theological project might look like in [[Part II]] (27).
+The only way to combine what needs to be combined is by means of a fresh examination of what a contemporary Christian literary, historical, and theological project might look like in [[Part II]] (27).
 
 We know a good deal more about ancient Judaism than we used to, [[Part III]]] (27).
 
@@ -44,3 +44,6 @@ The 1st century Jewish worldview shall be discussed in detail in [[Part III]]
 A simple process of knowledge demonstrates what is involved in the 'hypothesis and verification' model, and it should be placed alongside worldviews and stories -- to be argued in [[Chapter 5]] (43).
 
 The role of hypothesis and verification in discussing history, [[Chapter 4]]
+
+\\ Still need to do -> for Chapter 3.
+
