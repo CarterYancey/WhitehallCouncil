@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3.md",
+                "file": "Chapter 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to be answered.md",
+                "file": "Part II.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to be answered.md",
+                "file": "Transcript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#History",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Things to be answered.md",
+                "file": "Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Things to be answered.md",
+                "file": "Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Things to be answered.md"
+                "file": "Chapter 4.md"
               }
             }
           }
@@ -183,19 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be1e92191dd5fd26",
+  "active": "de38b9f7deaefae8",
   "lastOpenFiles": [
-    "Part II.md",
-    "Part I.md",
-    "Chapter 3.md",
-    "Chapter 4.md",
+    "Chapter 5.md",
     "Names and Ideas.md",
-    "Chapter 2.md",
-    "Chapter 1.md",
-    "Things to be answered.md",
-    "Transcript.md",
     "Council Questions.md",
+    "Part I.md",
+    "Part II.md",
+    "Part IV.md",
     "Preface.md",
-    "Part IV.md"
+    "Transcript.md",
+    "Things to be answered.md",
+    "Chapter 4.md",
+    "Chapter 3.md",
+    "Chapter 2.md",
+    "Chapter 1.md"
   ]
 }

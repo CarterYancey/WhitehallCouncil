@@ -47,3 +47,7 @@ The role of hypothesis and verification in discussing history, [[Chapter 4]]
 
 \\ Still need to do -> for Chapter 3.
 
+Atomist, non theological reading of Judaism to be discussed in Part III. (87).
+
+
+

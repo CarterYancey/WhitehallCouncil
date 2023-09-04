@@ -13,9 +13,9 @@ The evidence for Caesar's crossing the Rubicon is ultimately of the same order a
 #Phenomenalism 
 
 Critical awareness reveals three things about the process of knowing, all of which challenge either #naiverealism or mainline #positivism: (36)
-	1. the observer is looking from one point of view. There's no such thing as a God's eye view (for humas).
+	1. the observer is looking from one point of view. There's no such thing as a God's eye view (for humans).
 	2. all humans interpret information received from their senses through a grid of expectations. #Worldviews.
-	3. Where I stand has a great deal to do with the communities to which I belong. every human community shares and chances certain assumptions, traditions, expectations, etc. ==There is no such thing as a neutral or objective observer. There is no such thing as a detached observer.==
+	3. Where I stand has a great deal to do with the communities to which I belong. every human community shares certain assumptions, traditions, expectations, etc. ==There is no such thing as a neutral or objective observer. There is no such thing as a detached observer.==
 
 ## 3. Stories, Worldviews, and Knowledge
 #Story #Worldview

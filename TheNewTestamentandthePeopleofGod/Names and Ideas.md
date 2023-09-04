@@ -4,6 +4,9 @@ Doing the historical work in order to move beyond it to an ultimate ultimate tru
 #CriticalRealism :
 A theory about how people know things (32). It acknowledges the reality of the thing known as something other than the knower, while also fully acknowledging that the only access we have to this reality lies along appropriate dialogue between the knower and the thing known. (35) Sometimes called #HermeneuticOfLove or #EpistemologyOfLove (64).
 
+#Hypothesis #Hypotheses :
+Construct thought up by a human mind which offers itself as a story about a particular set of phenomena ,in which the story, which is bound to be an interpretation of those phenomena, also offers an explanation of them.
+
 #NaiveRealism: 
 People assume they know things 'straight' (33).  Imagines itself to have direct access to the event or object spoken of in the text (54). See #Positivism. 
 
